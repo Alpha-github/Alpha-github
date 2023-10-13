@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <!-- &nbsp; -->
 ##
 <div align="center">
-    <p style="font-size:60%; font:'Roboto';"> I Am A ...</p>
+    <h1 style="font:'Roboto';"> I Am A ...</h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Onest&weight=600&size=35&duration=3000&pause=1000&color=0CAFF7&background=D9F0FF00&center=true&vCenter=true&random=false&width=950&lines=Technologist+%F0%9F%A4%96%F0%9F%98%8E;Data+Scientist+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Night+Owl+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Coffee+addict+%E2%98%95;Not+Lazy%2C+Just+on+Energy-Saving+Mode+" alt="Typing SVG" /></a>
 </div>
