@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 ## Github Stats
-<div align="center> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-github&theme=github"> </div>
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-github&theme=github"> </div>
 
 <!-- ![Profile_Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-github&theme=github) -->
