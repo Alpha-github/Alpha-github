@@ -1,4 +1,4 @@
-# My Profile
+# My Profile 🙋‍♂️
 
 <div style="width: 100%;">
   <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
@@ -15,6 +15,7 @@
   <a href="https://www.kaggle.com/ankithmotha"><img src="https://images.datacamp.com/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png" width=7% style="padding-right:5px"></a>
 
 </div>
+
 
 &nbsp;
 <div align="center"><h2> Skill Set </h2></div>
@@ -41,5 +42,8 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpha-github">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-github&theme=github">
+
+<p></p>
+  <img src="https://github.com/Alpha-github/Alpha-github/blob/output/github-contribution-grid-snake.svg">
 
 </div>
