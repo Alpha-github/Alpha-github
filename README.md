@@ -45,5 +45,4 @@
 
 <p></p>
   <img src="https://github.com/Alpha-github/Alpha-github/blob/output/github-contribution-grid-snake.svg">
-
 </div>
