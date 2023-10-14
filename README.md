@@ -10,9 +10,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Onest&weight=600&size=35&duration=4000&pause=2000&color=0CAFF7&background=D9F0FF00&center=true&vCenter=true&random=false&width=950&lines=Technologist+%F0%9F%A4%96%F0%9F%98%8E;Data+Scientist+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Night+Owl+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Coffee+addict+%E2%98%95;Pythonista+%F0%9F%90%8D"/>
 
-  <a href="https://www.instagram.com/ankith_m03/"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width=6%></a>
-  <a href="https://www.linkedin.com/in/ankithmotha/"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width=6%></a>
-  <a href="https://www.kaggle.com/ankithmotha"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" width=10% style="padding-left:5px; padding-bottom:5px"></a>
+  <a href="https://www.instagram.com/ankith_m03/"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" width=20px></a>
+  <a href="https://www.linkedin.com/in/ankithmotha/"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width=20px></a>
+  <a href="https://www.kaggle.com/ankithmotha"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" width=20px style="padding-left:5px; padding-bottom:5px"></a>
 
 </div>
 
