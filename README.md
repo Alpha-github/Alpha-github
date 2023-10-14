@@ -41,8 +41,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpha-github">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpha-github">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-github&theme=github">
-
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-github&theme=github"> -->
 <p></p>
+
+![Github Views](https://github-views.deno.dev/api/badge/alpha-github?label=Views+Counter+👀)
+
+<h2>Git Commit Snake 🐍</h2>
   <img src="https://github.com/Alpha-github/Alpha-github/blob/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </div>
+
