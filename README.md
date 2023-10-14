@@ -44,5 +44,5 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-github&theme=github">
 
 <p></p>
-  <img src="https://github.com/Alpha-github/Alpha-github/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Alpha-github/Alpha-github/blob/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </div>
