@@ -49,8 +49,3 @@
   <h2>Git Commit Snake 🐍</h2>
   <img src="https://github.com/Alpha-github/Alpha-github/blob/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </div>
-
-<div>
-<h2> 🎧 Listening To This Lately</h2>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=jewnr0hkcou51vangj6nvvtu7&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false">
-</div>
