@@ -13,7 +13,6 @@
   <a href="https://www.instagram.com/ankith_m03/"><img src="https://www.citypng.com/public/uploads/preview/-51608566751xc7qlipxbb.png?v=2023082716" width=5% style="padding-right:5px"></a>
   <a href="https://www.linkedin.com/in/ankithmotha/"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width=4% style="padding-right:5px"></a>
   <a href="https://www.kaggle.com/ankithmotha"><img src="https://images.datacamp.com/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png" width=7% style="padding-right:5px"></a>
-
 </div>
 
 
