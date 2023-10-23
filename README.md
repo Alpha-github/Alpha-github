@@ -48,7 +48,7 @@
   <img src="https://github.com/Alpha-github/Alpha-github/blob/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </div>
 
-<div align="center>
+<div align="center">
   <h2> Holopins </h2>
   <a href="https://holopin.io/@alphagithub">
     <img src="https://holopin.me/alphagithub">
