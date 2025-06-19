@@ -36,11 +36,8 @@
   <h2>Github Stats 📊</h2>
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=alpha-github"> -->
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=alpha-github">
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpha-github">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-github&layout=compact)
+  <img width=50% src="https://github-readme-streak-stats-eight.vercel.app?user=alpha-github">
+  <img width=46% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpha-github">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpha-github&theme=github">
   <p></p>
